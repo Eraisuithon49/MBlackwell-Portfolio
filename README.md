@@ -9,13 +9,17 @@
   <h1>Hello, I'm Mike</h1>
   <p>Developer • Designer • Creator</p>
 
-Overview
+Overview: 
 Technology professional with experience spanning IT support, networking, and system administration, with a strong interest in cybersecurity and an expanding focus on software development. I have grown alongside the evolving IT landscape, from early DOS-based systems to modern development environments.
 ________________________________________
 Core Focus Areas
+
 •	IT Support & Infrastructure
+
 •	Network Administration & Troubleshooting
+
 •	Cybersecurity Fundamentals & Best Practices
+
 •	Web & Software Development (HTML, CSS, Git, JavaScript – learning)
 ________________________________________
 Certifications & Professional Development
